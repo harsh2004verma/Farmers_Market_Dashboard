@@ -102,7 +102,7 @@ Focused on revenue performance and sales trends.
 
 ### Sales Wise Analysis
 
-![Sales Wise Analysis]("C:\Users\Harsh verma\Downloads\Seles Wise Analysis.png")
+![Sales Wise Analysis](Seles Wise Analysis.png)
 
 
 ## 📈 Key Insights
