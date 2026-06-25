@@ -102,7 +102,7 @@ Focused on revenue performance and sales trends.
 
 ### Sales Wise Analysis
 
-![Sales Wise Analysis](Seles Wise Analysis.png)
+![Sales Wise Analysis](https://github.com/harsh2004verma/Farmers_Market_Dashboard/blob/b438885af85e68bc617e5e4050c9d44fe6d9e7c1/Quantity%20Wsie%20%20Analysis.png)
 
 
 ## 📈 Key Insights
