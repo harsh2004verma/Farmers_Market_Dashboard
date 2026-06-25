@@ -39,7 +39,6 @@ This page provides an overview of the most important business metrics:
 
 #### Key Performance Indicators (KPIs)
 
-- Total Sales
 - Total Quantity
 - Unique Customers
 - Total Customers
@@ -48,14 +47,12 @@ This page provides an overview of the most important business metrics:
 
 #### Visualizations
 
-- Product Name vs Sales
 - Product Name vs Quantity
-- Vendor vs Sales
 - Vendor vs Quantity
-- Customer vs Sales
 - Customer vs Quantity
-- Customer ZIP vs Sales
 - Customer ZIP vs Quantity
+- Product vs Quantity
+- Customer Quantity Detail Table
 
 #### Features
 
@@ -97,36 +94,6 @@ Focused on revenue performance and sales trends.
 
 ---
 
-### 3️⃣ Quantity Wise Analysis
-
-Focused on product movement and quantity sold.
-
-#### KPIs
-
-- Total Quantity
-- Unique Customers
-- Total Customers
-- Total Vendors
-- Total Booths
-
-#### Visualizations
-
-- Product Name vs Quantity
-- Vendor vs Quantity
-- Customer vs Quantity
-- Product vs Quantity
-- Customer ZIP vs Quantity
-- Quantity Detail Table
-
-#### Insights
-
-- Most demanded products
-- Customer purchase volume
-- Vendor quantity contribution
-- Quantity distribution by location
-
----
-
 ## 📷 Dashboard Screenshots
 
 ### Combined KPI Analysis
@@ -135,13 +102,8 @@ Focused on product movement and quantity sold.
 
 ### Sales Wise Analysis
 
-![Sales Wise Analysis](images/sales-wise-analysis.png)
+![Sales Wise Analysis]("C:\Users\Harsh verma\Downloads\Seles Wise Analysis.png")
 
-### Quantity Wise Analysis
-
-![Quantity Wise Analysis](images/quantity-wise-analysis.png)
-
----
 
 ## 📈 Key Insights
 
@@ -153,32 +115,6 @@ Focused on product movement and quantity sold.
 
 ---
 
-## 🚀 How to Use
-
-1. Download the `.pbix` file.
-2. Open it in Power BI Desktop.
-3. Refresh the dataset if required.
-4. Use slicers and filters to explore insights.
-5. Interact with visuals for drill-down analysis.
-
----
-
-## 📂 Project Structure
-
-```
-Farmers-Market-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset/
-│   └── Farmers_Market_Data.xlsx
-├── Images/
-│   ├── Combined KPI Analysis.png
-│   ├── Sales Wise Analysis.png
-│   └── Quantity Wise Analysis.png
-└── README.md
-```
-
----
 
 ## 👨‍💻 Author
 
